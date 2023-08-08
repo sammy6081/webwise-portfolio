@@ -342,12 +342,7 @@ section {
   transition: var(--my-transition);
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .css {
-  width: 0;
-}
-.about-stats .progress-bars .progress-bar .progress-con .progress .css:hover {
-  cursor: pointer;
   width: 75%;
-  animation: load 3s normal forwards;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .javascript {
   width: 40%;

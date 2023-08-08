@@ -331,12 +331,7 @@ section{
                         transition: var(--my-transition);
                     }
                     .css{
-                        width: 0;
-                        &:hover{
-                            cursor: pointer;
-                            width: 75%;
-                            animation: load 3s normal forwards;
-                        }
+                        width: 75%;
                     }
                     .javascript{
                         width: 40%;
